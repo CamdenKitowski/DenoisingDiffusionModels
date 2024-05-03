@@ -30,11 +30,11 @@ This notebook will walk through the following steps.
 1. Dataset - Explore dataset
 
 2. Build Diffusion Model - Implement forward process, noise scheduler, and backward process. 
-2.1 Implement forward process with a linear noise scheduler.
-2.2 Implement backward process with the U-Net model.
-2.3 Implement loss function
-2.4 Sample new images
-2.5 Train model
+    2.1 Implement forward process with a linear noise scheduler.
+    2.2 Implement backward process with the U-Net model.
+    2.3 Implement loss function
+    2.4 Sample new images
+    2.5 Train model
 
 3. Plot and Visualize Results.
 
