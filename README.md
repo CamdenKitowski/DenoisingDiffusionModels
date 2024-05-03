@@ -1,6 +1,6 @@
 # Denoising Diffusion Model for MNIST Dataset
 
-This repository implements a simplified version of the denoising diffusion model from scratch using PyTorch with MNIST dataset.
+This repository implements a simplified version of the denoising diffusion model from scratch using PyTorch with the MNIST dataset.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This repository implements a simplified version of the denoising diffusion model
 
 ## Introduction
 
-The Denoising Diffusion Model is a powerful tool for generating high-fidelity images by eliminating noise from initially noisy inputs. At its core, this model harnesses the principles of diffusion processes to iteratively refine images. Within image generation tasks, noise elimination stands as a pivotal stride in crafting clear and authetic images. This model within the notebook gradually transforms a noisy input image into a clean output image. 
+The Denoising Diffusion Model is a powerful tool for generating high-fidelity images by eliminating noise from initially noisy inputs. At its core, this model harnesses the principles of diffusion processes to iteratively refine images. Within image generation tasks, noise elimination stands as a pivotal stride in crafting clear and authentic images. This model within the notebook gradually transforms a noisy input image into a clean output image. 
 
 ## Usage
 
