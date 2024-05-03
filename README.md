@@ -6,7 +6,7 @@ This repository implements a simplified version of the denoising diffusion model
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Notebook Overview](#NotebookOverview)
+- [Overview](#Overview)
 - [Results](#results)
 
 ## Introduction
