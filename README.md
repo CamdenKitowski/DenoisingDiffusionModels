@@ -23,7 +23,7 @@ The Denoising Diffusion Model is a powerful tool for generating high-fidelity im
 
 4. Follow the instructions to execute the code cells.
 
-## Notebook Overview
+## Overview
 
 This notebook will walk through the following steps.
 
