@@ -1,6 +1,6 @@
 # Denoising Diffusion Model for MNIST Dataset
 
-This repository implements a simplified version of the denoising diffusion model from scratch using PyTorch with the MNIST dataset.
+This repository implements a simplified version of the denoising diffusion probabilistic model from scratch using PyTorch with the MNIST dataset.
 
 ## Table of Contents
 
